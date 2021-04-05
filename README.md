@@ -1,2 +1,3 @@
 # Reverse-engineering
-Currently studying reverse engineering therefore the repository is empty at the moments.
+Work I did during "Reverse-engineering" course.
+Grade 5/5
